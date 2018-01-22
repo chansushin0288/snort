@@ -1,0 +1,10 @@
+version
+2.9.8.3
+
+snort download
+snort, daq, snortrules
+
+snort website : www.snort.org
+
+1.get snort & daq from snort website (no needed to login)
+2.get snortrules from snort website (needed to login to download snortrules)
